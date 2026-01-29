@@ -20,7 +20,7 @@ print(reverse(123))
 print(reverse(123))
 
 print(isPalindrome(123))
-print(reverse(126))
+print(reverse(129))
 print(isPalindrome(121))  
 print("=================================")
 def getPalindromes(start,end):
