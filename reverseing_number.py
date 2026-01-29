@@ -16,7 +16,11 @@ def isPalindrome(num):
     return num==reverse(num)
 
 
+
 print(reverse(1237869398000))
+
+print(reverse(123786000))
+
 
 print(reverse(12389))
 
