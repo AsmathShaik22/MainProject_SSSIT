@@ -14,13 +14,13 @@ def reverse (num):
     return rev
 def isPalindrome(num):
     return num==reverse(num)
-<<<<<<< HEAD
-print(reverse(1239))
-=======
-print(reverse(1236))
->>>>>>> 7f08a27da7e1c8bc5d7eb692832cfe276441a742
+
+print(reverse(123))
+
+print(reverse(123))
+
 print(isPalindrome(123))
-print(reverse(121))
+print(reverse(126))
 print(isPalindrome(121))
 print("=================================")
 def getPalindromes(start,end):
