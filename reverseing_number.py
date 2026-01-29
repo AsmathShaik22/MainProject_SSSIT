@@ -20,8 +20,8 @@ print(reverse(123))
 print(reverse(123))
 
 print(isPalindrome(123))
-print(reverse(121))
-print(isPalindrome(121))
+print(reverse(126))
+print(isPalindrome(121))  
 print("=================================")
 def getPalindromes(start,end):
     res=""
