@@ -1,14 +1,21 @@
 hello....
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 story-2
 =======
 x=10
 y=20
 z=x+y
 =======
+=======
+>>>>>>> Stashed changes
 story-1
 =============
 a=10
 b=20
+<<<<<<< Updated upstream
+c=a+b
+>>>>>>> Stashed changes
+=======
 c=a+b
 >>>>>>> Stashed changes
