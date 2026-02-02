@@ -1,6 +1,6 @@
 hello....
 story-2
-========
-x="Hello"
-y="World"
+=======
+x=10
+y=20
 z=x+y
